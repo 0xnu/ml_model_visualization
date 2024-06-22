@@ -23,8 +23,8 @@ This project is licensed under the [Apache License 2.0](./LICENSE).
   year         = 2024,
   version      = {0.0.1},
   publisher    = {Zenodo},
-  doi          = {},
-  url          = {}
+  doi          = {10.5281/zenodo.12277956},
+  url          = {https://doi.org/10.5281/zenodo.12277956}
 }
 ```
 
